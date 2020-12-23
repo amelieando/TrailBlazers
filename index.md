@@ -1,8 +1,7 @@
-<!DOCTYPE html>
+
 
 <html>
   <head>
-    <title>Trail Blazers</title>
     <link
     rel = "stylesheet"
     href = "real.css">
