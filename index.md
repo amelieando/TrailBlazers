@@ -50,7 +50,7 @@
       </center>
      </form>
 
-    <center>
+   <center>
     <section class="et-hero-tabs">
       <div class="crossfade">
           <figure></figure>
