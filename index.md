@@ -1,7 +1,8 @@
-
+<!DOCTYPE html>
 
 <html>
   <head>
+    <title>Trail Blazers</title>
     <link
     rel = "stylesheet"
     href = "real.css">
@@ -48,8 +49,7 @@
          </select>
       </center>
      </form>
-
-   <center>
+    <center>
     <section class="et-hero-tabs">
       <div class="crossfade">
           <figure></figure>
